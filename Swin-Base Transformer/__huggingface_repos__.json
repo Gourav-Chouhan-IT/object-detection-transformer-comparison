@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "microsoft/swin-base-patch4-window7-224", "repoType": "model", "commitHash": "20d6c26ef6455d36c0a78671d787c5da57513d4b", "filePaths": ["model.safetensors", "config.json"]}]}

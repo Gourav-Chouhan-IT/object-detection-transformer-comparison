@@ -1,0 +1,65 @@
+{
+  "model": "VGG16",
+  "dataset": "PlantDoc + PlantVillage (combined)",
+  "task": "Crop Leaf Disease Classification",
+  "num_classes": 25,
+  "test_accuracy": 97.72,
+  "throughput_fps": 267.5,
+  "latency_ms": 9.49,
+  "best_val_acc": 97.45,
+  "classes": [
+    "Apple Scab Leaf",
+    "Apple leaf",
+    "Apple rust leaf",
+    "Bell_pepper leaf",
+    "Bell_pepper leaf spot",
+    "Blueberry leaf",
+    "Cherry leaf",
+    "Corn leaf blight",
+    "Corn rust leaf",
+    "Peach leaf",
+    "PlantDoc-Dataset",
+    "Raspberry leaf",
+    "Soyabean leaf",
+    "Squash Powdery mildew leaf",
+    "Strawberry leaf",
+    "Tomato Early blight leaf",
+    "Tomato Septoria leaf spot",
+    "Tomato leaf",
+    "Tomato leaf bacterial spot",
+    "Tomato leaf late blight",
+    "Tomato leaf mosaic virus",
+    "Tomato leaf yellow virus",
+    "Tomato mold leaf",
+    "grape leaf",
+    "grape leaf black rot"
+  ],
+  "architecture": {
+    "conv_layers": 13,
+    "fc_layers": 3,
+    "filter_size": "3x3 (all)",
+    "parameters": "138M"
+  },
+  "comparison": {
+    "ViT_v1": {
+      "test_acc": 72.27,
+      "fps": 48.9,
+      "latency_ms": 20.46
+    },
+    "ViT_v2": {
+      "test_acc": 74.22,
+      "fps": 70.1,
+      "latency_ms": 14.26
+    },
+    "Swin": {
+      "test_acc": 73.83,
+      "fps": 20.5,
+      "latency_ms": 48.81
+    },
+    "VGG16": {
+      "test_acc": 97.72,
+      "fps": 267.5,
+      "latency_ms": 9.49
+    }
+  }
+}

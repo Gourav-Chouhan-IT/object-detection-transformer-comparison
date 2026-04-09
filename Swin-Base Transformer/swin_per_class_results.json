@@ -1,0 +1,106 @@
+{
+  "Apple Scab Leaf": {
+    "predicted": "Apple Scab Leaf",
+    "confidence": 93.47
+  },
+  "Apple leaf": {
+    "predicted": "Apple leaf",
+    "confidence": 67.64
+  },
+  "Apple rust leaf": {
+    "predicted": "Apple rust leaf",
+    "confidence": 97.93
+  },
+  "Bell pepper leaf spot": {
+    "predicted": "Bell_pepper leaf spot",
+    "confidence": 77.51
+  },
+  "Blueberry leaf": {
+    "predicted": "Blueberry leaf",
+    "confidence": 88.8
+  },
+  "Cherry leaf": {
+    "predicted": "Apple leaf",
+    "confidence": 61.79
+  },
+  "Corn Gray leaf spot": {
+    "predicted": "Corn Gray leaf spot",
+    "confidence": 93.96
+  },
+  "Corn leaf": {
+    "predicted": "Corn leaf blight",
+    "confidence": 58.72
+  },
+  "Corn rust leaf": {
+    "predicted": "Corn rust leaf",
+    "confidence": 87.46
+  },
+  "Orange leaf": {
+    "predicted": "Cherry leaf",
+    "confidence": 55.55
+  },
+  "Peach leaf": {
+    "predicted": "Peach leaf",
+    "confidence": 76.06
+  },
+  "Potato leaf early blight": {
+    "predicted": "Potato leaf early blight",
+    "confidence": 81.91
+  },
+  "Potato leaf late blight": {
+    "predicted": "Potato leaf late blight",
+    "confidence": 89.55
+  },
+  "Raspberry leaf": {
+    "predicted": "Strawberry leaf",
+    "confidence": 53.56
+  },
+  "Soyabean leaf": {
+    "predicted": "Soyabean leaf",
+    "confidence": 61.79
+  },
+  "Squash Powdery mildew leaf": {
+    "predicted": "Squash Powdery mildew leaf",
+    "confidence": 74.57
+  },
+  "Strawberry leaf": {
+    "predicted": "Strawberry leaf",
+    "confidence": 86.52
+  },
+  "Tomato Early blight leaf": {
+    "predicted": "Tomato Septoria leaf spot",
+    "confidence": 27.35
+  },
+  "Tomato Septoria leaf spot": {
+    "predicted": "Tomato Septoria leaf spot",
+    "confidence": 84.54
+  },
+  "Tomato leaf bacterial spot": {
+    "predicted": "Tomato Septoria leaf spot",
+    "confidence": 83.75
+  },
+  "Tomato leaf late blight": {
+    "predicted": "Tomato leaf late blight",
+    "confidence": 84.64
+  },
+  "Tomato leaf mosaic virus": {
+    "predicted": "Tomato leaf mosaic virus",
+    "confidence": 86.54
+  },
+  "Tomato leaf yellow virus": {
+    "predicted": "Tomato leaf mosaic virus",
+    "confidence": 19.28
+  },
+  "Tomato leaf": {
+    "predicted": "Tomato leaf mosaic virus",
+    "confidence": 36.17
+  },
+  "Tomato mold leaf": {
+    "predicted": "Tomato Septoria leaf spot",
+    "confidence": 42.18
+  },
+  "grape leaf black rot": {
+    "predicted": "grape leaf black rot",
+    "confidence": 91.48
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "model": "YOLOv8s",
+    "dataset": "Pascal VOC 2012",
+    "epochs": 50,
+    "mAP50": 0.7891,
+    "mAP50_95": 0.5833,
+    "precision": 0.7643,
+    "recall": 0.7362,
+    "FPS": 74.9,
+    "latency_ms": 13.4,
+    "train_time_mins": 44.34
+}
